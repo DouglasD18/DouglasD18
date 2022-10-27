@@ -2,6 +2,8 @@
 
 <div>
   <h2>Sou Douglas Aguiar, tenho 22 anos e sou mais um apaixonado por programação e por todo o mundo de oportunidades que ela proporciona.</h2>
+  <div>Sou um cara que demorou um pouco para perceber o que queria trabalhar, estudar e viver para o resto da vida, mas encontrou a programação e se encontrou no ato.<br>
+Gosto demais de finanças, futebol, filosofia, lógica, literatura, música e inúmeras outras coisas, e na programação eu encontrei uma área que eu poderia trabalhar com algumas dessas outras áreas ou até mesmo com todas elas. Não é de se impressionar que eu tenha me apaixonado por programação também.</div>
  </div>
 
 <div align="center">
