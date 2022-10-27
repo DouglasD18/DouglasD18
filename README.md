@@ -1,4 +1,8 @@
-## Olá, sou Douglas Aguiar e sou estudante de Desenvolvimento Web Fullstack na Trybe.
+## Hello, World!!!
+
+<div>
+  <h2>Sou Douglas Aguiar, tenho 22 anos e sou mais um apaixonado por programação e por todo o mundo de oportunidades que ela proporciona.</h2>
+ </div>
 
 <div align="center">
   <a href="https://github.com/douglasD18">
