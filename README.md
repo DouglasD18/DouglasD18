@@ -1,10 +1,10 @@
 ## Hello, World!!!
 
 <div>
-  <h2>Sou Douglas Aguiar, tenho 22 anos e sou mais um apaixonado por programação e por todo o mundo de oportunidades que ela proporciona.</h2>
+  <h2>Sou Douglas Aguiar, tenho 22 anos e sou um apaixonado por programação e por todo o mundo de oportunidades e desafios que ela proporciona.</h2>
   <div>
     Sou um cara que demorou um pouco para perceber o que queria trabalhar, estudar e viver para o resto da vida, mas encontrou a programação e se encontrou no ato.<br>
-Gosto demais de finanças, futebol, filosofia, lógica, literatura, música e inúmeras outras coisas, e na programação eu encontrei uma área que eu poderia trabalhar com algumas dessas outras áreas ou até mesmo com todas elas. Não é de se impressionar que eu tenha me apaixonado por programação também.
+Tenho muito interesse em áreeas como finanças, futebol, filosofia, lógica, literatura, música e inúmeras outras coisas, e na programação eu encontrei uma área que eu poderia trabalhar com algumas dessas outras áreas ou até mesmo com todas elas. Não é de se impressionar que eu tenha me apaixonado por programação também.
   </div>
 </div>
 <br>
@@ -28,6 +28,7 @@ Gosto demais de finanças, futebol, filosofia, lógica, literatura, música e in
   <img align="center" alt="Douglas-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Douglas-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
   <img align="center" alt="Douglas-Sequelize" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg">
+  <img align="center" alt="Douglas-Nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg">
 </div>
   
 ##
